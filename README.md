@@ -1,5 +1,14 @@
-### Hi there 👋
-## I am a 19 year old Machine Learning Developer at [DSC-VIT](https://github.com/GDGVIT) and [SmokeTrees](https://github.com/smoke-trees). I am also a Machine Learning Inter at [PayCrunch](https://www.paycrunch.in).
+## Hi there 👋
+### I am a 19 year old Machine Learning Developer at [DSC-VIT](https://github.com/GDGVIT) and [SmokeTrees](https://github.com/smoke-trees). I am also a Machine Learning Inter at [PayCrunch](https://www.paycrunch.in).
+
+<br>
+
+- 🔭 I’m currently exploring the power of Applied Mathematics and improving Machine Learning and Deep Learning Skills
+- 👯 I’m looking to collaborate on any Machine Learning/Deep Learning Projects.
+- 💬 Ask me about anything in the field of Data Science.
+
+
+
 
 <!--
 **chanakya1310/chanakya1310** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
