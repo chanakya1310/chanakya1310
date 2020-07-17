@@ -3,12 +3,13 @@
 
 <br>
 
+### My Tech Stack
+<img src="https://img.shields.io/badge/-Machine Learning-orange?style=for-the-badge"> <img src="https://img.shields.io/badge/-Deep Learning-red?style=for-the-badge"> <img src="https://img.shields.io/badge/-Python-blueviolet?style=for-the-badge"> <img src="https://img.shields.io/badge/-Image Processing-lightgrey?style=for-the-badge"> <img src="https://img.shields.io/badge/-Computer Vision-green?style=for-the-badge"> <img src="https://img.shields.io/badge/-Streamlit-orange?style=for-the-badge"> <img src="https://img.shields.io/badge/-Data Science-yellow?style=for-the-badge"> <img src="https://img.shields.io/badge/-OpenCv-brightgreen?style=for-the-badge"><img src="https://img.shields.io/badge/-BeautifulSoup-orange?style=for-the-badge"> <img src="https://img.shields.io/badge/-Selenium-red?style=for-the-badge"> <img src="https://img.shields.io/badge/-NLP-lightgrey?style=for-the-badge"> <img src="https://img.shields.io/badge/-Data Analytics-blue?style=for-the-badge">
+
 - 🔭 I’m currently exploring the power of Applied Mathematics and improving Machine Learning and Deep Learning Skills
 - 👯 I’m looking to collaborate on any Machine Learning/Deep Learning Projects.
 - 💬 Ask me about anything in the field of Data Science and Machine Learning.
 
-### My Tech Stack
-<img src="https://img.shields.io/badge/-Machine Learning-orange?style=for-the-badge"> <img src="https://img.shields.io/badge/-Deep Learning-red?style=for-the-badge"> <img src="https://img.shields.io/badge/-Python-blueviolet?style=for-the-badge"> <img src="https://img.shields.io/badge/-Image Processing-lightgrey?style=for-the-badge"> <img src="https://img.shields.io/badge/-Computer Vision-green?style=for-the-badge"> <img src="https://img.shields.io/badge/-Streamlit-orange?style=for-the-badge"> <img src="https://img.shields.io/badge/-Data Science-yellow?style=for-the-badge"> <img src="https://img.shields.io/badge/-OpenCv-brightgreen?style=for-the-badge"> <img src="https://img.shields.io/badge/-NLP-lightgrey?style=for-the-badge"> <img src="https://img.shields.io/badge/-Data Analytics-blue?style=for-the-badge"> <img src="https://img.shields.io/badge/-BeautifulSoup-orange?style=for-the-badge"> <img src="https://img.shields.io/badge/-Selenium-red?style=for-the-badge">
 
 
 
