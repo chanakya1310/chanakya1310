@@ -11,7 +11,9 @@
 - 👯 I’m looking to collaborate on any Machine Learning/Deep Learning Projects.
 - 💬 Ask me about anything in the field of Data Science and Machine Learning.
 - ⚡ Fun fact: I love to play and watch Basketball and Cricket.
+<br>
 
+![Chanakya's GitHub Stats](https://github-readme-stats.vercel.app/api?username=chanakya1310)
 
 
 
