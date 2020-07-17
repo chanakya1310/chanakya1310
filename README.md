@@ -13,7 +13,8 @@
 - ⚡ Fun fact: I love to play and watch Basketball and Cricket.
 <br>
 
-![Chanakya's GitHub Stats](https://github-readme-stats.vercel.app/api?username=chanakya1310)
+### Connect with me!
+[<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](http://www.linkedin.com/in/chanakya-vivek-kapoor-a04496167) [<img src = "https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white">](https://www.instagram.com/chanakya_kapoor/)
 
 
 
