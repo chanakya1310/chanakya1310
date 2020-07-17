@@ -1,5 +1,5 @@
 ## Hi there 👋
-### I am a 19 year old Machine Learning Developer at [DSC-VIT](https://github.com/GDGVIT) and [SmokeTrees](https://github.com/smoke-trees). I am also a Machine Learning Inter at [PayCrunch](https://www.paycrunch.in).
+### I am a 19 year old Machine Learning Developer at [DSC-VIT](https://github.com/GDGVIT) and [SmokeTrees](https://github.com/smoke-trees). I am also a Machine Learning Intern at [PayCrunch](https://www.paycrunch.in).
 
 <br>
 
