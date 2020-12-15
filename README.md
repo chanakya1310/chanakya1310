@@ -14,7 +14,7 @@
 <br>
 
 ### Connect with me!
-[<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](http://www.linkedin.com/in/chanakya-vivek-kapoor-a04496167) [<img src = "https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white">](https://www.instagram.com/chanakya_kapoor/) [<img src = "https://img.shields.io/badge/MEDIUM-lightgrey?style=for-the-badge&logo=medium&logoColor=white">](https://medium.com/@chanakyavkapoor)
+[<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](http://www.linkedin.com/in/chanakya-vivek-kapoor-a04496167) [<img src = "https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white">](https://www.instagram.com/chanakya_kapoor/) [<img src = "https://img.shields.io/badge/MEDIUM-lightgrey?style=for-the-badge&logo=medium&logoColor=white">](https://medium.com/@chanakyavkapoor)[<img src = "https://img.shields.io/badge/Kaggle-blue?style=for-the-badge&logo=kaggle&logoColor=white">](https://www.kaggle.com/chanakyavivekkapoor)
 
 
 
