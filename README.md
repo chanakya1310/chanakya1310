@@ -1,5 +1,5 @@
 ## Hi there 👋
-### I am a 20 year old Machine Learning Developer at [DSC-VIT](https://github.com/GDGVIT) and [SmokeTrees](https://github.com/smoke-trees). I am Kaggle 2x Expert(Notebooks and Discussion). I am also a Machine Learning Intern at [PayCrunch](https://www.paycrunch.in).
+### I am a 20 year old Machine Learning Developer at [DSC-VIT](https://github.com/GDGVIT) and [SmokeTrees](https://github.com/smoke-trees). I am [Kaggle](https://www.kaggle.com/chanakyavivekkapoor) 2x Expert(Notebooks and Discussion). I am also a Machine Learning Intern at [PayCrunch](https://www.paycrunch.in).
 
 <br>
 
