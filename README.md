@@ -1,5 +1,13 @@
 ## Hi there 👋
-### I am a 20 year old Machine Learning Developer at [DSC-VIT](https://github.com/GDGVIT) and [SmokeTrees](https://github.com/smoke-trees). I am [Kaggle](https://www.kaggle.com/chanakyavivekkapoor) Notebooks Master and Discussion Expert. I am also a Data Science Intern at [Drishya.ai](https://www.drishya.ai/) and Ex-Research Intern at Tata Consulatancy Services.
+### I am a 20 year old Developer at [DSC-VIT](https://github.com/GDGVIT) trying to master data science.
+
+* TensorFlow Certified Developer
+
+* [Kaggle](https://www.kaggle.com/chanakyavivekkapoor) Notebooks Master and Discussion Expert.
+
+* Data Science Intern at [Drishya.ai](https://www.drishya.ai/) 
+
+* Ex-Research Intern at Tata Consulatancy Services.
 
 <br>
 
